@@ -1,0 +1,42 @@
+
+
+Derrape detectado en fotograma número: 109
+Se trata de un derrape nuevo con tamaño: 68.0 - Punto inicio: (62,273) Punto fin: (30,213)
+
+Lista de derrapes actualizada: [[62, 273, 30, 213]]
+
+
+Derrape detectado en fotograma número: 177
+Se trata de un derrape nuevo con tamaño: 80.95677859203639 - Punto inicio: (503,103) Punto fin: (538,176)
+
+Lista de derrapes actualizada: [[62, 273, 30, 213], [503, 103, 538, 176]]
+
+
+Derrape detectado en fotograma número: 289
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 1
+Aumento distancia umbral a 300
+
+Lista de derrapes actualizada: [[62, 273, 30, 213], [503, 103, 538, 176]]
+
+
+Derrape detectado en fotograma número: 501
+El derrape comienza dentro del derrape con indice 1, pero termina fuera de el.
+Se modifica el punto de fin al del nuevo derrape detectado (541, 185)
+Tamaño del derrape 1 actualizado: 90.37698822156003
+Aumento distancia umbral a 320
+
+Lista de derrapes actualizada: [[62, 273, 30, 213], [503, 103, 541, 185]]
+
+
+Derrape detectado en fotograma número: 915
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 1
+Aumento distancia umbral a 340
+
+Lista de derrapes actualizada: [[62, 273, 30, 213], [503, 103, 541, 185]]
+
+
+Derrape detectado en fotograma número: 1020
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 1
+Aumento distancia umbral a 360
+
+Lista de derrapes actualizada: [[62, 273, 30, 213], [503, 103, 541, 185]]

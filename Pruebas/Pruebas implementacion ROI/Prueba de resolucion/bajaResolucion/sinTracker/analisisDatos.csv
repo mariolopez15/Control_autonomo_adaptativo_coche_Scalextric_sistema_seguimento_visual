@@ -1,0 +1,14 @@
+Fichero,Media,Desviacion,Valor minimo,Valor maximo
+guardarVideo.csv,1.0185,0.2354,0.6621,2.9409
+cruzoMeta.csv,0.1352,0.024,0.054,0.3491
+tiempoEntreFrames.csv,8.9739,0.8332,7.0569,15.03
+recSector.csv,0.1464,0.0828,0.01,0.2419
+actualizarTracker.csv,0.1234,0.0226,0.009,0.281
+dibujo.csv,0.2576,0.1253,0.0762,0.8508
+procesarFrame.csv,3.4643,0.5396,2.571,7.707
+mostrarFrame.csv,7.8299,0.7288,5.906,14.7661
+getSector.csv,0.0577,0.0368,0.0059,0.2961
+readquisicion.csv,1.556,0.4111,0.6182,2.4109
+calculoVuelta.csv,0.025,0.0028,0.022,0.0291
+tiempoLeerFrame.csv,0.2758,0.0472,0.1899,0.8091
+contornoEtiq.csv,1.3984,0.38,0.7332,2.9131

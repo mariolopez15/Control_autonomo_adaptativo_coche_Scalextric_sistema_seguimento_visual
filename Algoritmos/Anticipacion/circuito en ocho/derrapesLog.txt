@@ -1,0 +1,19 @@
+
+
+Derrape detectado en fotograma número: 122
+Se trata de un derrape nuevo con tamaño: 84.21995013059554 - Punto inicio: (118,107) Punto fin: (76,180)
+
+Lista de derrapes actualizada: [[118, 107, 76, 180]]
+
+
+Derrape detectado en fotograma número: 180
+Se trata de un derrape nuevo con tamaño: 100.7670581092849 - Punto inicio: (519,70) Punto fin: (596,135)
+
+Lista de derrapes actualizada: [[118, 107, 76, 180], [519, 70, 596, 135]]
+
+
+Derrape detectado en fotograma número: 244
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 0
+Aumento distancia umbral a 300
+
+Lista de derrapes actualizada: [[118, 107, 76, 180], [519, 70, 596, 135]]

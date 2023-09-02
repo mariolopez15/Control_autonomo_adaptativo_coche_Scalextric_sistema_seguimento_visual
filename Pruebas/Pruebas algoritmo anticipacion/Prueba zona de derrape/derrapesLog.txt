@@ -1,0 +1,62 @@
+
+
+Derrape detectado en fotograma número: 155
+Se trata de un derrape nuevo con tamaño: 42.5205832509386 - Punto inicio: (73,276) Punto fin: (45,244)
+
+Lista de derrapes actualizada: [[73, 276, 45, 244]]
+
+
+Derrape detectado en fotograma número: 231
+Se trata de un derrape nuevo con tamaño: 61.61980201201558 - Punto inicio: (491,94) Punto fin: (532,140)
+
+Lista de derrapes actualizada: [[73, 276, 45, 244], [491, 94, 532, 140]]
+
+
+Derrape detectado en fotograma número: 304
+El derrape comienza en zona sin derrapes detectados pero termina dentro del derrape con indice 0.
+Se modifica el punto de inicio al del nuevo derrape detectado (82, 284)
+Tamaño del derrape 0 actualizado: 54.48853090330111
+
+Lista de derrapes actualizada: [[82, 284, 45, 244], [491, 94, 532, 140]]
+
+
+Derrape detectado en fotograma número: 402
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 1
+
+Lista de derrapes actualizada: [[82, 284, 45, 244], [491, 94, 532, 140]]
+
+
+Derrape detectado en fotograma número: 491
+El derrape comienza dentro del derrape con indice 0, pero termina fuera de el.
+Se modifica el punto de fin al del nuevo derrape detectado (28, 175)
+Tamaño del derrape 0 actualizado: 121.64292005702592
+
+Lista de derrapes actualizada: [[82, 284, 28, 175], [491, 94, 532, 140]]
+
+
+Derrape detectado en fotograma número: 567
+Se trata de un derrape nuevo con tamaño: 52.49761899362675 - Punto inicio: (536,232) Punto fin: (502,272)
+
+Lista de derrapes actualizada: [[82, 284, 28, 175], [491, 94, 532, 140], [536, 232, 502, 272]]
+
+
+Derrape detectado en fotograma número: 695
+El derrape se encuentra dentro del derrape ya detectado cuyo índice es 1
+
+Lista de derrapes actualizada: [[82, 284, 28, 175], [491, 94, 532, 140], [536, 232, 502, 272]]
+
+
+Derrape detectado en fotograma número: 843
+El derrape comienza dentro del derrape con indice 1, pero termina fuera de el.
+Se modifica el punto de fin al del nuevo derrape detectado (541, 178)
+Tamaño del derrape 1 actualizado: 97.75479527879949
+
+Lista de derrapes actualizada: [[82, 284, 28, 175], [491, 94, 541, 178], [536, 232, 502, 272]]
+
+
+Derrape detectado en fotograma número: 859
+El derrape comienza dentro del derrape con indice 2, pero termina fuera de el.
+Se modifica el punto de fin al del nuevo derrape detectado (474, 289)
+Tamaño del derrape 2 actualizado: 84.21995013059554
+
+Lista de derrapes actualizada: [[82, 284, 28, 175], [491, 94, 541, 178], [536, 232, 474, 289]]

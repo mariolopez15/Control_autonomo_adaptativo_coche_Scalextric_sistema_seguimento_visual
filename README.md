@@ -8,4 +8,8 @@ En la carpeta "Pruebas" se encuentran los archivos generados durante cada una de
 
 En la carpeta "Vídeos" se encuentran vídeos generados tras la ejecución del sistema durante su desarrollo.
 
+controlScalextric.py se trata de la aplicación de escritorio
+
+control_scalextric.ino se trata de la aplicación arduino
+
 
